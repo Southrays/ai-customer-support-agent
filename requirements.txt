@@ -1,0 +1,13 @@
+fastapi[standard]
+pydantic-settings
+python-dotenv 
+psycopg[binary]
+google-api-python-client
+google-auth
+pydantic-ai-slim[anthropic]
+
+#Dev
+google-auth-oauthlib
+pydantic-evals
+ipykernel
+nest-asyncio
